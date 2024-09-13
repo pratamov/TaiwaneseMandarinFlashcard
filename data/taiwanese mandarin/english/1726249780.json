@@ -1,0 +1,27 @@
+{
+    "sentence_language": "taiwanese mandarin",
+    "output_language": "english",
+    "sentence": "我愛喝珍珠奶茶",
+    "words": [
+        {
+            "word": "我",
+            "translate": "I"
+        },
+        {
+            "word": "愛",
+            "translate": "love"
+        },
+        {
+            "word": "喝",
+            "translate": "to drink"
+        },
+        {
+            "word": "珍珠",
+            "translate": "pearl"
+        },
+        {
+            "word": "奶茶",
+            "translate": "milk tea"
+        }
+    ]
+}

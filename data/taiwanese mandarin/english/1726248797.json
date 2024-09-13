@@ -1,0 +1,27 @@
+{
+    "sentence_language": "Taiwanese Mandarin",
+    "output_language": "English",
+    "sentence": "我愛吃芒果冰",
+    "words": [
+        {
+            "word": "我",
+            "translate": "I"
+        },
+        {
+            "word": "愛",
+            "translate": "love"
+        },
+        {
+            "word": "吃",
+            "translate": "to eat"
+        },
+        {
+            "word": "芒果",
+            "translate": "mango"
+        },
+        {
+            "word": "冰",
+            "translate": "ice"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "sentence_language": "taiwanese mandarin",
+    "output_language": "english",
+    "sentence": "你今天要去哪裡？",
+    "words": [
+        {
+            "word": "你",
+            "translate": "you"
+        },
+        {
+            "word": "今天",
+            "translate": "today"
+        },
+        {
+            "word": "要",
+            "translate": "want to"
+        },
+        {
+            "word": "去",
+            "translate": "go"
+        },
+        {
+            "word": "哪裡",
+            "translate": "where"
+        }
+    ]
+}
